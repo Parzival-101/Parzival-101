@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=parzival-101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<a href="https://github.com/SajidAnTechie/SajidAnTechie">
+<a href="https://github.com/Parzival-101/Parzival-101">
   </a>
   <a>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=parzival-101&repo=Discord-Bot&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">  
